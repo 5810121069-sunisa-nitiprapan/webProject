@@ -96,16 +96,28 @@ background-color:#009688;
 .bg-orange {
   background-color: #76c604;
   box-shadow: 0.1875em 0.1875em #f98f06;
-  padding: 0.3875em;
+  padding: 1.3875em;
+  margin-right: 1em;
+  margin-left: 1em;
   margin-bottom: 1em;
-  border-radius: 1.5125em;
+  border-radius: 5.5125em;
 }
 .bg-orange:hover {
-  background-color: #f98f06;
-  box-shadow: 0.1875em  0.1875em   #fafd00;
-    border-radius: 2.5125em 0 2.5125em 0;
-
+  background-color: #7aca08;
+  box-shadow: 0.1875em  0.1875em   #f7f96d;
+  border-radius: 5.5125em;
 }
+.bgfont {
+  background-color: #fff;
+  font-size:1.5em;
+  box-shadow: 0 0 7px #76c604;
+  padding: 0.2875em;
+  margin-right: 1em;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  border-radius: 0.5125em;
+}
+
 .hobbybg{
 
 position: relative;
