@@ -58,3 +58,7 @@ body {
 .main-footer p {
 	margin: 0;
 }
+
+.textalign{
+	text-align :center;
+}
