@@ -62,3 +62,6 @@ body {
 .textalign{
 	text-align :center;
 }
+.textaling:hover{
+	color:red;
+}
